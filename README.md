@@ -7,7 +7,7 @@ puis lancer
 factorielle avec tantque.exe     
 pour l'executer     
 aller dans le dossier :      
-factorielle-avec-repeter/factorielle avec repeter/
-puis lancer
-Program.cs
-pour voir le code
+factorielle-avec-tantque/factorielle avec tantque/     
+puis lancer     
+Program.cs    
+pour voir le code    
